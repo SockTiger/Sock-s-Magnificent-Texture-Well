@@ -1,7 +1,7 @@
 add CyberlessAmy/raw/character/amy.pac
 add CyberlessAmy/raw/character/amy_orig.pac
-add FiveColorAmy/raw/character/amy.pac
-add FiveColorAmy/raw/character/amy_orig.pac
+add FourColorAmy/raw/character/amy.pac
+add FourColorAmy/raw/character/amy_orig.pac
 add SA1Big/raw/character/big.pac
 add SBrownEyes/raw/character/sonic.pac
 add SBrownEyes/raw/character/soniccyber.pac
