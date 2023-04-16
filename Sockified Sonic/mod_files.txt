@@ -1,16 +1,7 @@
-add CyberlessAmy/raw/character/amy.pac
-add CyberlessAmy/raw/character/amy_orig.pac
-add FourColorAmy/raw/character/amy.pac
-add FourColorAmy/raw/character/amy_orig.pac
-add SA1Big/raw/character/big.pac
 add SBrownEyes/raw/character/sonic.pac
 add SBrownEyes/raw/character/soniccyber.pac
 add SGreenEyes/raw/character/sonic.pac
 add SGreenEyes/raw/character/soniccyber.pac
-add SimpleAmy/raw/character/amy.pac
-add SimpleAmy/raw/character/amy_orig.pac
-add SSGreenEyes/raw/character/supersonic.pac
-add SSRedEyes/raw/character/supersonic.pac
 add profiles/Default.ini
 add Sockified_Sonic.json
 add mod.ini
