@@ -11,5 +11,6 @@ add SimpleAmy/raw/character/amy.pac
 add SimpleAmy/raw/character/amy_orig.pac
 add SSGreenEyes/raw/character/supersonic.pac
 add SSRedEyes/raw/character/supersonic.pac
+add profiles
 add Sockified_Sonic.json
 add mod.ini
