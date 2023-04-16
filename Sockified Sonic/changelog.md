@@ -1,5 +1,5 @@
 ## Sock's Sonic Texture Edits V1.15
-LASHES
+Added a set of fabulous lashes to Sonic/Super Sonic
 
 ## Sock's Sonic Texture Edits V1.1
 Added Amy / Big (and a few fixes)
