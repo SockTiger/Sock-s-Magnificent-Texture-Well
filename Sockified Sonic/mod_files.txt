@@ -2,6 +2,8 @@ add SBrownEyes/raw/character/sonic.pac
 add SBrownEyes/raw/character/soniccyber.pac
 add SGreenEyes/raw/character/sonic.pac
 add SGreenEyes/raw/character/soniccyber.pac
+add SSGreenEyes/raw/character/supersonic.pac
+add SSRedEyes/raw/character/supersonic.pac
 add profiles/Default.ini
 add Sockified_Sonic.json
 add mod.ini
