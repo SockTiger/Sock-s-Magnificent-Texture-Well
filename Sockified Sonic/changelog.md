@@ -1,3 +1,6 @@
+## Sock's Texture Edits V1.2
+Added Knuckles + a new spin slash-y jumpball
+
 ## Sock's Sonic Texture Edits V1.15
 Added a set of fabulous lashes to Sonic/Super Sonic
 
