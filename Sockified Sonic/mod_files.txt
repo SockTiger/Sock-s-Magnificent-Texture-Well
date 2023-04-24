@@ -1,4 +1,4 @@
-delete SBrownEyes/raw/character/sonic.pac
+delete Sockified Sonic/SBrownEyes
 delete SBrownEyes/raw/character/soniccyber.pac
 delete SGreenEyes/raw/character/sonic.pac
 delete SGreenEyes/raw/character/soniccyber.pac
