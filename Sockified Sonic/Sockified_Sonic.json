@@ -1,0 +1,220 @@
+{
+  "Groups": [
+    {
+      "Name": "Main",
+      "DisplayName": "Eye Options",
+      "Elements": [
+        {
+
+          "Name": "IncludeDir0",
+          "DisplayName": "Sonic Eye Color",
+          "Description": [
+            "Determines weither you play with the edited eyes or the Frontiers standard green"
+          ],
+          "Type": "IncDir0",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "SonicBrownEyes"
+        },
+        {
+          "Name": "IncludeDir1",
+          "DisplayName": "Super Sonic Eye Color",
+          "Description": [
+            "Same system as base sonic but with extra cheese"
+          ],
+          "Type": "IncDir1",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "SuperSonicGreenEyes"
+        }
+      ]
+    },
+    {
+      "Name": "Main",
+      "DisplayName": "Character Options",
+      "Elements": [
+        {
+
+          "Name": "IncludeDir2",
+          "DisplayName": "Amy",
+          "Description": [
+            "Decide which Amy variation you use"
+          ],
+          "Type": "IncDir2",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "AlteredAmy"
+        },
+        {
+          "Name": "IncludeDir3",
+          "DisplayName": "Knuckles",
+          "Description": [
+            "Decide which Knuckles variation you use"
+          ],
+          "Type": "IncDir3",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "AlteredKnuckles"
+        },
+        {
+          "Name": "IncludeDir4",
+          "DisplayName": "SA1 Big",
+          "Description": [
+            "As the name suggests, an SA1 inspired recolor of Big"
+          ],
+          "Type": "IncDir4",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "SA1Big"
+        }
+      ]
+    },
+    {
+      "Name": "Main",
+      "DisplayName": "Miscellaneous Options",
+      "Elements": [
+        {
+
+          "Name": "IncludeDir5",
+          "DisplayName": "Jumpball",
+          "Description": [
+            "Decide which jumpball you use"
+          ],
+          "Type": "IncDir5",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "JumpballStandard"
+        }
+      ]
+    }
+  ],
+  "Enums": {
+    "IncDir0": [
+      {
+        "DisplayName": "Brown",
+        "Value": "SonicBrownEyes",
+        "Description": [
+          "Edited brown eyes (eyes is such a weird word when you think about it for this long)"
+        ]
+      },
+      {
+        "DisplayName": "Green",
+        "Value": "SonicGreenEyes",
+        "Description": [
+          "Standard Frontiers green eyes"
+        ]
+      }
+    ],
+    "IncDir1": [
+      {
+
+        "DisplayName": "Tweaked Green",
+        "Value": "SuperSonicGreenEyes",
+        "Description": [
+          "Edited green eyes"
+        ]
+      },
+      {
+        "DisplayName": "Red",
+        "Value": "SuperSonicRedEyes",
+        "Description": [
+          "Standard Frontiers red eyes"
+        ]
+      }
+    ],
+    "IncDir2": [
+      {
+        "DisplayName": "Altered",
+        "Value": "AlteredAmy",
+        "Description": [
+          "Amy with a pinker tint and various minor tweaks to better match her updated apperance"
+        ]
+      },
+      {
+        "DisplayName": "FourColor",
+        "Value": "FourColorAmy",
+        "Description": [
+          "Amy with a stricter white and pink pallete"
+        ]
+      },
+      {
+        "DisplayName": "Cyberless",
+        "Value": "CyberlessAmy",
+        "Description": [
+          "Edited-Texture Amy without the cyberspace shaders (glitch effects are still present)"
+        ]
+      },
+      {
+        "DisplayName": "Standard",
+        "Value": ".",
+        "Description": [
+          "Standard Frontiers Amy model(s)"
+        ]
+      }
+    ],
+    "IncDir3": [
+      {
+        "DisplayName": "Altered",
+        "Value": "AlteredKnuckles",
+        "Description": [
+          "Amy with a redder tint and various minor tweaks to better match his updated apperance"
+        ]
+      },
+      {
+        "DisplayName": "FourColor",
+        "Value": "FourColorKnuckles",
+        "Description": [
+          "Knuckles with a stricter white and red pallete"
+        ]
+      },
+      {
+        "DisplayName": "Cyberless",
+        "Value": "CyberlessKnuckles",
+        "Description": [
+          "Edited-Texture Knuckles without the cyberspace shaders (glitch effects are still present)"
+        ]
+      },
+      {
+        "DisplayName": "Standard",
+        "Value": ".",
+        "Description": [
+          "Standard Frontiers Knuckles model(s)"
+        ]
+      }
+    ],
+    "IncDir4": [
+      {
+        "DisplayName": "Enabled",
+        "Value": "SA1Big",
+        "Description": [
+          "Unrelated, but while I have this description space, I'm just gonna advise that if you havent, you should watch My Neighbor Totoro IMMEDIATELY"
+        ]
+      },
+      {
+        "DisplayName": "Disabled",
+        "Value": ".",
+        "Description": [
+          "Normal Purple Big boy"
+        ]
+      }
+    ],
+    "IncDir5": [
+      {
+        "DisplayName": "Edited Jumpball",
+        "Value": "JumpballStandard",
+        "Description": [
+          "Uses a darker blue jumpball with purple accents"
+        ]
+      },
+      {
+        "DisplayName": "Spin Slash Jumpball",
+        "Value": "JumpballSpinSlash",
+        "Description": [
+          "Uses a jumpball meshed with edited Spin Slash effects / glitch and electricity effects"
+        ]
+      }
+    ]
+
+  },
+  "IniFile": "mod.ini"
+}
