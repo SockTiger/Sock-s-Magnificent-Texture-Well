@@ -1,8 +1,8 @@
-delete /SBrownEyes
-delete /SGreenEyes
-delete /SSGreenEyes
-delete /SSRedEyes
-delete /SimpleAmy
+delete SBrownEyes/raw
+delete SGreenEyes/raw
+delete SSGreenEyes/raw
+delete SSRedEyes/raw
+delete SimpleAmy/raw
 add AlteredAmy/raw/character/amy.pac
 add AlteredAmy/raw/character/amy_orig.pac
 add AlteredKnuckles/raw/character/knuckles.pac
