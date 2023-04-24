@@ -1,8 +1,8 @@
-delete Sockified Sonic/SBrownEyes
-delete Sockified Sonic/SGreenEyes
-delete Sockified Sonic/SSGreenEyes
-delete Sockified Sonic/SSRedEyes
-delete Sockified Sonic/SimpleAmy
+delete /SBrownEyes
+delete /SGreenEyes
+delete /SSGreenEyes
+delete /SSRedEyes
+delete /SimpleAmy
 add AlteredAmy/raw/character/amy.pac
 add AlteredAmy/raw/character/amy_orig.pac
 add AlteredKnuckles/raw/character/knuckles.pac
