@@ -1,11 +1,8 @@
-delete SBrownEyes/raw/character/sonic.pac
-delete SBrownEyes/raw/character/soniccyber.pac
-delete SGreenEyes/raw/character/sonic.pac
-delete SGreenEyes/raw/character/soniccyber.pac
-delete SSGreenEyes/raw/character/supersonic.pac
-delete SSRedEyes/raw/character/supersonic.pac
-delete SimpleAmy/raw/character/amy.pac
-delete SimpleAmy/raw/character/amy_orig.pac
+delete SBrownEyes
+delete SGreenEyes
+delete SSGreenEyes
+delete SSRedEyes
+delete SimpleAmy
 add AlteredAmy/raw/character/amy.pac
 add AlteredAmy/raw/character/amy_orig.pac
 add AlteredKnuckles/raw/character/knuckles.pac
