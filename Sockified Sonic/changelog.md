@@ -1,4 +1,4 @@
-## Sock's Texture Edits V1.3
+## Sock's Texture Edits V1.3 (Compatible with Update 2)
 Added DLC Outfit Rextures + Demonish Sage + Sonic Backlights + and even more changes that I've forgotten since its been so long.
 
 ## Sock's Texture Edits V1.2
