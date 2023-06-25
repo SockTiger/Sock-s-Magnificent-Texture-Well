@@ -4,6 +4,10 @@ delete SonicGreenEyes/raw/character/sonic.pac
 delete SonicGreenEyes/raw/character/soniccyber.pac
 delete SuperSonicGreenEyes/raw/character/supersonic.pac
 delete SuperSonicRedEyes/raw/character/supersonic.pac
+add SonicBrownEyes/raw/character/trr_common_texture.pac
+add SonicGreenEyes/raw/character/trr_common_texture.pac
+add SuperSonicGreenEyes/raw/character/text_caption.pac
+add SuperSonicRedEyes/raw/character/text_caption.pac
 delete SimpleAmy/raw/character/amy.pac
 delete SimpleAmy/raw/character/amy_orig.pac
 add AlteredAmy/raw/character/amy.pac
