@@ -4,10 +4,6 @@ delete SonicGreenEyes/raw/character/sonic.pac
 delete SonicGreenEyes/raw/character/soniccyber.pac
 delete SuperSonicGreenEyes/raw/character/supersonic.pac
 delete SuperSonicRedEyes/raw/character/supersonic.pac
-add SonicBrownEyes/raw/character/trr_common_texture.pac
-add SonicGreenEyes/raw/character/trr_common_texture.pac
-add SuperSonicGreenEyes/raw/character/text_caption.pac
-add SuperSonicRedEyes/raw/character/text_caption.pac
 delete SimpleAmy/raw/character/amy.pac
 delete SimpleAmy/raw/character/amy_orig.pac
 add AlteredAmy/raw/character/amy.pac
@@ -18,6 +14,10 @@ add FourColorAmy/raw/character/amy.pac
 add FourColorKnuckles/raw/character/knuckles.pac
 add JumpballSpinSlash/raw/EffectCommon.pac
 delete JumpballStandard/raw/EffectCommon.pac
+add SonicBrownEyes/raw/misc/trr_common_texture.pac
+add SonicGreenEyes/raw/misc/trr_common_texture.pac
+add SuperSonicGreenEyes/raw/text/text_caption.pac
+add SuperSonicRedEyes/raw/text/text_caption.pac
 add DLCOutfits/raw/dlc/dlccrm/dlccrm.pac
 add DLCOutfits/raw/dlc/dlcddx/dlcddx.pac
 add DLCOutfits/raw/dlc/dlcddx/dlcddx_sound/dlcddx_sound.level
