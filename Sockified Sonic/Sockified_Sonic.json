@@ -58,7 +58,7 @@
         },
         {
           "Name": "IncludeDir4",
-          "DisplayName": "SA1 Big",
+          "DisplayName": "Adventure Big",
           "Description": [
             "As the name suggests, an SA1 inspired recolor of Big"
           ],
@@ -66,6 +66,17 @@
           "MinValue": null,
           "MaxValue": null,
           "DefaultValue": "SA1Big"
+        },
+        {
+          "Name": "IncludeDir8",
+          "DisplayName": "Demon Sage",
+          "Description": [
+            "Don't look into those eyes for too long'"
+          ],
+          "Type": "IncDir8",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "NewSage"
         }
       ]
     },
@@ -84,6 +95,18 @@
           "MinValue": null,
           "MaxValue": null,
           "DefaultValue": "JumpballStandard"
+        },
+        {
+          "Name": "IncludeDir6",
+          "DisplayName": "Edited DLC Outfits",
+          "Description": [
+            "Golden Soap Shoes / Timb Adventurer's Gloves and Shoes / Racing Korone Outfit / Silver Rathalos Suit"
+          ],
+          "Type": "IncDir6",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "DLCOutfits"
+        
         }
       ]
     }
@@ -201,7 +224,7 @@
     "IncDir5": [
       {
         "DisplayName": "Edited Jumpball",
-        "Value": "JumpballStandard",
+        "Value": ".",
         "Description": [
           "Uses a darker blue jumpball with purple accents"
         ]
@@ -211,6 +234,40 @@
         "Value": "JumpballSpinSlash",
         "Description": [
           "Uses a jumpball meshed with edited Spin Slash effects / glitch and electricity effects"
+        ]
+      }
+    ],
+    "IncDir6": [
+      {
+        "DisplayName": "Enabled",
+        "Value": "DLCOutfits",
+        "Description": [
+          "Edited DLC outfits"
+        ]
+      },
+      {
+        "DisplayName": "Disabled",
+        "Value": ".",
+        "Description": [
+          "Standard DLC outfits"
+
+        ]
+      }
+    ],
+    "IncDir8": [
+      {
+        "DisplayName": "Enabled",
+        "Value": "NewSage",
+        "Description": [
+          "Red eyes, pinkish glitch lines, darker dress / whiter hair, and a more humany skin tone that matches Eggmans"
+        ]
+      },
+      {
+        "DisplayName": "Disabled",
+        "Value": ".",
+        "Description": [
+          "Standard Sage"
+
         ]
       }
     ]
