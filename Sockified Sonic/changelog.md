@@ -1,4 +1,7 @@
 ## Sock's Texture Edits V1.2
+Added DLC Outfit Rextures + Demonish Sage + and even more changes that I've forgotten since its been so long.
+
+## Sock's Texture Edits V1.2
 Added Knuckles + a new spin slash-y jumpball
 
 ## Sock's Sonic Texture Edits V1.15
