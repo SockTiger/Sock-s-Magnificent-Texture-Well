@@ -1,3 +1,7 @@
+## Sock's Texture Edits V1.31 (Bugfixes)
+Fixes broken Super Sonic effects + Eye blemishes for Sonic / Amy
+
+
 ## Sock's Texture Edits V1.3 (Compatible with Update 2)
 Added DLC Outfit Rextures + Demonish Sage + Sonic Backlights + and even more changes that I've forgotten since its been a WHILE
 
